@@ -1,0 +1,2 @@
+The Raag Tab excel file contains hundreds of Indian classical music based Raags, to be used as an Index. Thisindex helps you to select a raag of your choice to explore the musical notes used in
+that raag including their basic characteristics; such as frequency of using particular notes and their ascending -descending rules.  
